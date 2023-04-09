@@ -1,0 +1,116 @@
+
+
+
+body{
+	background-image: url(111.jpg);
+	background-size: cover;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.background{
+	/*background: black;*/
+	width: 1300px;
+	height: 1600px;
+}
+
+.header{
+	background: yellow;
+	width: 1300px;
+	height: 100px;
+}
+
+.header1{
+	background: yellow;
+	width: 1300px;
+	height: 2px;
+	margin-top: 2px;
+}
+.header2{
+	background: yellow;
+	width: 1300px;
+	height: 5px;
+	margin-top: 2px;
+}
+
+.slider{
+	/*background: red;*/
+	width: 1300px;
+	height: 1405px;
+	margin-top: 50px;
+}
+
+.box{
+	background: gray;
+	width: 380px;
+	height: 250px;
+	margin-top: 35px;
+	margin-bottom: 5px;
+	margin-left: 35px;
+	float: left;
+	border-radius: 30px;
+	border: 3px solid white;
+	opacity: 30%;
+	transition: 2s ease;
+}
+
+
+.box:hover{
+	background: gray;
+	width: 380px;
+	height: 250px;
+	margin-top: 35px;
+	margin-bottom: 5px;
+	margin-left: 35px;
+	float: left;
+	border-radius: 30px;
+	border: 3px solid yellow;
+	opacity: 100%;
+	transition: 0.7s ease;
+}
+
+
+
+.box1{
+/*	background: gray;*/
+	width: 380px;
+	height: 50px;
+	margin-top: 5px;
+	margin-bottom: 35px;
+	margin-left: 35px;
+	float: left;
+	border-radius: 30px;
+	border: 3px solid white;
+}
+
+img{
+	border-radius: 30px;
+	background-color: ;
+}
+
+
+/*Writings*/
+
+.heading{
+	font-family: Calibri Light;
+	font-size: 80px;
+}
+
+.title{
+	font-family: Calibri Light;
+	font-size: 35px;
+	color: white;
+}
+
+.year{
+	color: yellow;
+}
+
+
+
+
+
+
